@@ -1,8 +1,8 @@
-# VATNZ vatSys Dataset Project
+# VATNZ vatSys Auckland Radio Project
 
 [![Currently Released AIRAC](https://img.shields.io/badge/Currently%20Released%20AIRAC-In%20Beta%20Testing-blue)](https://github.com/vatnz-dev/new-zealand-dataset)
 
-The VATNZ vatSys Dataset project is an open source collaborative project allowing members of the VATNZ community to work together to create a high-quality dataset to use in vatSys.
+The VATNZ vatSys Auckland Radio project is an open source collaborative project allowing members of the VATNZ community to work together to create a high-quality dataset to use in vatSys.
 
 A new sector file will be released in line with each AIRAC cycle (as long as significant changes warrant such as release). 
 
