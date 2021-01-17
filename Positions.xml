@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Positions>
+  <Position Name="Auckland Radio" Type="ASD" DefaultCenter="-300000.000-1750000.000" DefaultRange="6500">
+    <Sectors>
+      <Sector Name="NZZO"/>
+    </Sectors>
+    <Maps>
+      <Map Name="ALL_SECTORS"/>
+      <Map Name="COAST_ALL"/>
+      <Map Name="FIR_BDRY"/>
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="true"/>
+      <Window Type="State" State="Announced" Visible="true"/>
+      <Window Type="State" State="Preactive" Visible="true"/>
+    </Strips>
+    <ArrivalLists>
+    </ArrivalLists>
+    <CFL QuickLevel="29000"/>
+    <ControllerInfo>
+      <Line>Auckland Radio | CPDLC available on NZZO</Line>
+      <Line>Oceanic Reporting  www.vatnz.net/pilots/oceanic-report-tool</Line>
+      <Line></Line>
+    </ControllerInfo>
+  </Position>
+  <Position Name="McMurdo" Type="ASD" DefaultCenter="-690000.000+1710000.000" DefaultRange="4500">
+    <Sectors>
+      <Sector Name="NZCM"/>
+    </Sectors>
+  <Maps>
+      <Map Name="ALL_CTA"/>
+      <Map Name="ALL_SECTORS"/>
+      <Map Name="COAST_ALL"/>
+      <Map Name="FIR_BDRY"/>
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="true"/>
+      <Window Type="State" State="Announced" Visible="true"/>
+      <Window Type="State" State="Preactive" Visible="true"/>
+    </Strips>
+    <ArrivalLists>
+      <Airport Name="NZWD"/>
+      <Airport Name="NZIR"/>
+    </ArrivalLists>
+    <CFL QuickLevel="29000"/>
+    <ControllerInfo>
+      <Line>McMurdo Radio| CPDLC available on NZCM</Line>
+      <Line>Oceanic Reporting  www.vatnz.net/pilots/oceanic-report-tool</Line>
+      <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
+    </ControllerInfo>
+  </Position>
+  <Position Name="Williams Tower" Type="ASD" DefaultCenter="-775203.000+1670324.000" DefaultRange="80" MagneticVariation="-140.9">
+    <Sectors>
+      <Sector Name="WD ADC"/>
+    </Sectors>
+    <Maps>
+      <Map Name="ALL_CTA"/>
+      <Map Name="Williams/IR_TCU"/>
+    </Maps>
+    <ATIS>
+      <Editor Airport="NZWD" Frequency="122.6"/>
+      <Window Airport="NZWD"/>
+    </ATIS>
+    <Strips Mode="Beacon" Sort="Alpha">
+      <Window Type="ADEP" Beacon="NZWD" Visible="true"/>
+    </Strips>
+    <CFL QuickLevel="5500">
+      <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+    </CFL>
+    <ArrivalLists>
+      <Airport Name="NZWD"/>
+      <Airport Name="NZIR"/>
+      <Airport Name="NZPG"/>
+      <Airport Name="NZPX"/>
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Williams Tower</Line>
+      <Line>ATIS available on 122.6</Line>
+    </ControllerInfo>
+  </Position>
+</Positions>

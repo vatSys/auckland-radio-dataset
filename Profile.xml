@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Profile Name="Auckland Radio" FullName="CAE NZZO AIDC">
+  <Version AIRAC="2101" Revision="a" PublishDate="20210117" UpdateURL=""/>
+  <Servers>
+    <VATSIMStatus url="https://status.vatsim.net/"/>
+    <GRIB url="https://sawbe.com/GRIB/"/>
+    <G2G url="antifaff.vatsys.sawbe.com" port="64738"/>
+  </Servers>
+</Profile>
