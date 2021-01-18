@@ -278,10 +278,10 @@
 	</Colour>
   <Colour id="Route">
     <Use>Graphic Route</Use>
-    <Name>Lavender</Name>
-    <R>196</R>
-    <G>171</G>
-    <B>196</B>
+    <Name>Orange</Name>
+    <R>255</R>
+    <G>165</G>
+    <B>0</B>
   </Colour>
   <Colour id="StaticTools">
 		<Use>BRL,PETO,NonRVSM,LATC,ETO</Use>
