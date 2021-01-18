@@ -201,10 +201,10 @@
   </Colour>
 	<Colour id="Jurisdiction">
 		<Use>Jurisdiction</Use>
-		<Name>LightGreen</Name>
-		<R>200</R>
+		<Name>White</Name>
+		<R>255</R>
 		<G>255</G>
-		<B>200</B>
+		<B>255</B>
 	</Colour>
   <Colour id="GhostJurisdiction">
     <Use>GhostJurisdiction</Use>
@@ -229,10 +229,10 @@
 	</Colour>
   <Colour id="Handover">
 		<Use>HandOver</Use>
-		<Name>Salmon</Name>
-		<R>255</R>
-		<G>205</G>
-		<B>105</B>
+		<Name>Light Blue</Name>
+		<R>128</R>
+		<G>231</G>
+		<B>253</B>
 	</Colour>
   <Colour id="Announced">
 		<Use>Announced</Use>
