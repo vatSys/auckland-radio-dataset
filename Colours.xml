@@ -181,9 +181,9 @@
   <Colour id="ASDBackground">
 		<Use>ASD Backgrounds</Use>
 		<Name>Blue</Name>
-		<R>0</R>
-		<G>0</G>
-		<B>127</B>
+		<R>1</R>
+		<G>9</G>
+		<B>118</B>
 	</Colour>
   <Colour id="CPDLCSendButton">
 		<Use>CPDLC Hot-Send Button</Use>
@@ -201,10 +201,10 @@
   </Colour>
 	<Colour id="Jurisdiction">
 		<Use>Jurisdiction</Use>
-		<Name>LightGreen</Name>
-		<R>200</R>
+		<Name>White</Name>
+		<R>255</R>
 		<G>255</G>
-		<B>200</B>
+		<B>255</B>
 	</Colour>
   <Colour id="GhostJurisdiction">
     <Use>GhostJurisdiction</Use>
@@ -229,14 +229,13 @@
 	</Colour>
   <Colour id="Handover">
 		<Use>HandOver</Use>
-		<Name>Salmon</Name>
-		<R>255</R>
-		<G>205</G>
-		<B>105</B>
+		<Name>Light Blue</Name>
+		<R>128</R>
+		<G>231</G>
+		<B>253</B>
 	</Colour>
   <Colour id="Announced">
 		<Use>Announced</Use>
-		<Name>Blue</Name>
 		<Name>White</Name>
 		<R>255</R>
 		<G>255</G>
@@ -245,23 +244,23 @@
   <Colour id="NonJurisdictionIQL">
 		<Use>NonJurisdictionIQL</Use>
 		<Name>Light Blue</Name>
-		<R>66</R>
-		<G>166</G>
-		<B>251</B>
+		<R>128</R>
+		<G>231</G>
+		<B>253</B>
 	</Colour>
   <Colour id="NonJurisdiction">
 		<Use>Non Jurisdiction Tracks and Strips</Use>
 		<Name>Light Blue</Name>
-		<R>66</R>
-		<G>166</G>
-		<B>251</B>
+		<R>128</R>
+		<G>231</G>
+		<B>253</B>
 	</Colour>
   <Colour id="NonJurisdictionLabel">
 		<Use>Non Jurisdiction Labels</Use>
 		<Name>Light Blue</Name>
-		<R>66</R>
-		<G>166</G>
-		<B>251</B>
+		<R>128</R>
+		<G>231</G>
+		<B>253</B>
 	</Colour>
   <Colour id="CFLHighlight">
 		<Use>New CFL Selection</Use>
@@ -279,10 +278,10 @@
 	</Colour>
   <Colour id="Route">
     <Use>Graphic Route</Use>
-    <Name>Lavender</Name>
-    <R>196</R>
-    <G>171</G>
-    <B>196</B>
+    <Name>Orange</Name>
+    <R>255</R>
+    <G>165</G>
+    <B>0</B>
   </Colour>
   <Colour id="StaticTools">
 		<Use>BRL,PETO,NonRVSM,LATC,ETO</Use>
@@ -350,9 +349,9 @@
   <Colour id="Infill">
 		<Use>Filled Area Map</Use>
 		<Name>Blue</Name>
-		<R>0</R>
-		<G>0</G>
-		<B>127</B>
+		<R>1</R>
+		<G>9</G>
+		<B>118</B>
 	</Colour>
   <Colour id="SecondaryMap">
 		<Use>Alternative System Map</Use>
