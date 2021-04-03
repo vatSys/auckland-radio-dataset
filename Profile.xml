@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Profile Name="Auckland Radio" FullName="CAE NZZO AIDC">
-  <Version AIRAC="2101" Revision="a" PublishDate="20210125" UpdateURL="https://vatsys.sawbe.com/downloads/data/Auckland%20Radio"/>
+  <Version AIRAC="2103" Revision="a" PublishDate="20210403" UpdateURL="https://vatsys.sawbe.com/downloads/data/Auckland%20Radio"/>
   <Servers>
     <VATSIMStatus url="https://status.vatsim.net/"/>
     <GRIB url="https://sawbe.com/GRIB/"/>
