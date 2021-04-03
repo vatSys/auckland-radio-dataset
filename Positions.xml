@@ -20,7 +20,7 @@
     <ControllerInfo>
       <Line>Auckland Radio | CPDLC available on NZZO</Line>
       <Line>Oceanic Reporting  www.vatnz.net/pilots/oceanic-report-tool</Line>
-      <Line></Line>
+      <Line>Submit feedback - vats.im/NZ-FB</Line>
     </ControllerInfo>
   </Position>
   <Position Name="McMurdo" Type="ASD" DefaultCenter="-690000.000+1710000.000" DefaultRange="4500">
@@ -44,9 +44,9 @@
     </ArrivalLists>
     <CFL QuickLevel="29000"/>
     <ControllerInfo>
-      <Line>McMurdo Radio| CPDLC available on NZCM</Line>
+      <Line>Mac Center | CPDLC available on NZCM</Line>
       <Line>Oceanic Reporting  www.vatnz.net/pilots/oceanic-report-tool</Line>
-      <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
+      <Line>Submit feedback - vats.im/NZ-FB</Line>
     </ControllerInfo>
   </Position>
   <Position Name="Williams Tower" Type="ASD" DefaultCenter="-775203.000+1670324.000" DefaultRange="80" MagneticVariation="-140.9">
