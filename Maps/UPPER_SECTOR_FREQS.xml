@@ -2,6 +2,7 @@
 <Maps>
   <Map Type="System2" Name="UPPER_SECTOR_FREQS" Priority="1">
     <Label HasLeader="false">
+      <Point Name="COL - 133.175">-15.331667+155.171667</Point>
       <Point Name="125.5">-050000.0-1400000.0</Point>
       <Point Name="125.5">-233000.0-1443000.0</Point>
       <Point Name="129.0">-140000.0-1650000.0</Point>
@@ -9,10 +10,9 @@
       <Point Name="123.6">-123000.0+1710000.0</Point>
       <Point Name="123.6">-230000.0+1740000.0</Point>
       <Point Name="128.7">-550000.0+1660000.0</Point>
-      <Point Name="129.6">-190000.0+1580000.0</Point>
-      <Point Name="124.6">-320000.0+1610000.0</Point>
-      <Point Name="129.5">-380000.0+1610000.0</Point>
-      <Point Name="128.6">-310000.0+1550000.0</Point>
+      <Point Name="FLD - 132.85">-21.676944+157.756944</Point><!-- FLD -->
+      <Point Name="HWE - 124.95">-30.428889+158.401667</Point>
+      <Point Name="TSN - 124.625">-39.488611+157.337500</Point>
     </Label>
   </Map>
 </Maps>
